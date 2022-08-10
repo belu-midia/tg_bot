@@ -1,3 +1,5 @@
+# https://apilayer.com/marketplace/exchangerates_data-api#details-tab - сайт с API
+
 TOKEN = '5425578263:AAHrK7MrmfqC5W83uQVzUyi4kwULe0G_D08'''
 
 headers = {"apikey": "OemtG0mVo3iIGOlhaZ1isqGmFOYvzjpx"}
